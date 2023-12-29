@@ -1,0 +1,34 @@
+# Contributing to My Awesome Project
+
+Welcome to My Awesome Project! We're excited that you're interested in contributing. Please take a moment to read the guidelines below.
+
+## Code of Conduct
+
+This project follows a [Code of Conduct](CODE_OF_CONDUCT.md). Please review it to understand our expectations for behavior within the community.
+
+## How to Contribute
+
+### Reporting Bugs
+
+If you find a bug, please [open an issue](../../issues) and provide detailed information about the problem.
+
+### Proposing Features
+
+If you have a feature request, [open an issue](../../issues) to discuss it with the community.
+
+### Submitting Pull Requests
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and ensure tests pass.
+4. Submit a pull request.
+
+## Coding Standards
+
+Please follow our [coding standards](CODING_STANDARDS.md) when making changes.
+
+## Testing Guidelines
+
+Make sure to test your changes thoroughly before submitting a pull request.
+
+Thank you for contributing to My Awesome Project!
